@@ -45,4 +45,4 @@ The dataset contains the following columns:
   
 **📌 Conclusion**
 
-    This Tableau dashboard provides a clear and interactive view of Netflix content trends across different countries and genres. It demonstrates data visualization, filtering, and dashboard design skills using Tableau.
+This Tableau dashboard provides a clear and interactive view of Netflix content trends across different countries and genres. It demonstrates data visualization, filtering, and dashboard design skills using Tableau.
